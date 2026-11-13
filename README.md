@@ -1,4 +1,4 @@
-# Hola, soy Jonathan Joshua 👋
+# Hola, soy Joshua 👋🏼
 
 **Full-Stack Developer**
 
