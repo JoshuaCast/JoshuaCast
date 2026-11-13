@@ -9,7 +9,7 @@ Trabajo tanto en el frontend como en el backend, desde interfaces cuidadas hasta
 
 ## 🚀 Actualmente trabajando en
 
-<!-- Cambia esta línea por tu proyecto actual -->
+
 Proyectos personales con React, Next.js y NestJS.
 
 ---
