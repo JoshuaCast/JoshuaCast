@@ -40,4 +40,4 @@ Proyectos personales con React, Next.js y NestJS.
 
 ## 🤝 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-joshua-casta%C3%B1eda-trujillo-23016b449/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-casta%C3%B1eda-trujillo/)
